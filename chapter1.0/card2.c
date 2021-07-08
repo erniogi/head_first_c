@@ -38,9 +38,4 @@ int main(void)
         puts("Take count");
         return 0;
     }
-
-    /* 
-    printf("Card Number:%i\n", val);
-    return 0;
-    */
 }
